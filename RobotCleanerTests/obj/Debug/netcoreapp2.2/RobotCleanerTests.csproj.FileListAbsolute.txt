@@ -1,0 +1,17 @@
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerTests\bin\Debug\netcoreapp2.2\RobotCleanerTests.deps.json
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerTests\bin\Debug\netcoreapp2.2\RobotCleanerTests.runtimeconfig.json
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerTests\bin\Debug\netcoreapp2.2\RobotCleanerTests.runtimeconfig.dev.json
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerTests\bin\Debug\netcoreapp2.2\RobotCleanerTests.dll
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerTests\bin\Debug\netcoreapp2.2\RobotCleanerTests.pdb
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerTests\bin\Debug\netcoreapp2.2\RobotCleanerLibrary.dll
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerTests\bin\Debug\netcoreapp2.2\RobotCleanerLibrary.pdb
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerTests\obj\Debug\netcoreapp2.2\RobotCleanerTests.csprojAssemblyReference.cache
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerTests\obj\Debug\netcoreapp2.2\RobotCleanerTests.csproj.CoreCompileInputs.cache
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerTests\obj\Debug\netcoreapp2.2\RobotCleanerTests.AssemblyInfoInputs.cache
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerTests\obj\Debug\netcoreapp2.2\RobotCleanerTests.AssemblyInfo.cs
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerTests\obj\Debug\netcoreapp2.2\RobotCleanerTests.csproj.CopyComplete
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerTests\obj\Debug\netcoreapp2.2\RobotCleanerTests.dll
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerTests\obj\Debug\netcoreapp2.2\RobotCleanerTests.pdb

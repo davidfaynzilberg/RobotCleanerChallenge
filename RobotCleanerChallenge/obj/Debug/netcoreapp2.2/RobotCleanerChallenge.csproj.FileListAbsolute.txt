@@ -1,0 +1,14 @@
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerChallenge\bin\Debug\netcoreapp2.2\RobotCleanerChallenge.deps.json
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerChallenge\bin\Debug\netcoreapp2.2\RobotCleanerChallenge.runtimeconfig.json
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerChallenge\bin\Debug\netcoreapp2.2\RobotCleanerChallenge.runtimeconfig.dev.json
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerChallenge\bin\Debug\netcoreapp2.2\RobotCleanerChallenge.dll
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerChallenge\bin\Debug\netcoreapp2.2\RobotCleanerChallenge.pdb
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerChallenge\bin\Debug\netcoreapp2.2\RobotCleanerLibrary.dll
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerChallenge\bin\Debug\netcoreapp2.2\RobotCleanerLibrary.pdb
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerChallenge\obj\Debug\netcoreapp2.2\RobotCleanerChallenge.csprojAssemblyReference.cache
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerChallenge\obj\Debug\netcoreapp2.2\RobotCleanerChallenge.csproj.CoreCompileInputs.cache
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerChallenge\obj\Debug\netcoreapp2.2\RobotCleanerChallenge.AssemblyInfoInputs.cache
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerChallenge\obj\Debug\netcoreapp2.2\RobotCleanerChallenge.AssemblyInfo.cs
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerChallenge\obj\Debug\netcoreapp2.2\RobotCleanerChallenge.csproj.CopyComplete
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerChallenge\obj\Debug\netcoreapp2.2\RobotCleanerChallenge.dll
+C:\Users\David Faynzilberg\source\repos\RobotCleanerChallenge\RobotCleanerChallenge\obj\Debug\netcoreapp2.2\RobotCleanerChallenge.pdb

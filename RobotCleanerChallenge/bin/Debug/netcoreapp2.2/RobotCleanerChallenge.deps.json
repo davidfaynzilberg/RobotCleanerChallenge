@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "RobotCleanerChallenge/1.0.0": {
+        "dependencies": {
+          "RobotCleanerLibrary": "1.0.0"
+        },
+        "runtime": {
+          "RobotCleanerChallenge.dll": {}
+        }
+      },
+      "RobotCleanerLibrary/1.0.0": {
+        "runtime": {
+          "RobotCleanerLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RobotCleanerChallenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RobotCleanerLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
